@@ -13,5 +13,8 @@ def get_uniq_names(full_file_list):
 
 a, b = get_uniq_names(full_list)
 
+def delete_duplicates(uniq_names, extension)
+	pass
+
 print(a)
 print(b)
